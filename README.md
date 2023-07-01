@@ -41,6 +41,7 @@ Self-study SICP(Structure And Interpretation Of Computer Programs) course resour
 ## Scheme
 
 - [Windows 下 SICP Scheme 开发环境安装](https://www.liangz.org/868.html)
+- [Scheme tutorial](http://deathking.github.io/yast-cn/?q=)
 
 ## Scheme in Windows’ VS Code
 
